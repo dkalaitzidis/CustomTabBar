@@ -11,7 +11,7 @@ Mainly all the credits goes to v-braun.
 
 ![CustomTabBar](https://i.imgur.com/rFMQVEd.png)
 
-### IBInspectable properities ###
+### IBInspectable properties ###
 - customBarBackgroundColor
 - customBarHeight
 - customBarTopRadius
